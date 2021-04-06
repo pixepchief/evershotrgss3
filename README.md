@@ -6,22 +6,35 @@ Hello everyone. If you're reading this you most likely have access to beta-test 
 Evershot has quite a lot of features as of now, that includes;
 
 🔨 Working Battle System
+
 ❤️️ Relationships, becoming friends or romancing others
+
 📦 Crafting System
 
 ## **🤔 | To Do List**
 
 💬 New Title Screen (0% complete)
+
 🎮 Controls Rebind (Gamepad support) (0% complete)
+
 📬 New Menu & Saving look (0% complete)
+
 🤔 Finish giving Evershot an overall new resource pack look (36% complete)
+
 🗿 Add Casino that allows you to play a variety of minigames (with the ability to gain money) (0% complete)
+
 💓 Make a System where you can hangout with party members/friends to increase Friendship (Rat and Eliza, etc) (66% complete)
+
 🧐 Nerf Eliza's friendship bar (100% complete)
+
 🤐 Add Friendship System for Rat (0% complete)
+
 😉 Add Dungeon bombs, arrows, boomerangs to help traverse (0% complete)
+
 🍁 Make a map radar for enemies in dungeons (89% complete)
+
 🤯 Add a rhythm minigame (0% complete)
+
 👑 Touhou minigame for the experienced (0% complete)
 
 ## **⚡ | Download**
